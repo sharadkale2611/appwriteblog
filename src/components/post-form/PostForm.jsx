@@ -1,5 +1,5 @@
 import React, { useCallback, useState } from 'react'
-import {Button, Input, Select, RTE} from "../Index"
+import {Button, Input, Select, RTE} from "../"
 import appwriteService from "../../appwrite/config"
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
